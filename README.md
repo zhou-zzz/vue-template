@@ -1,2 +1,1 @@
-# vue-template
-vue项目模板
+# vue3-ts-vite-starter
